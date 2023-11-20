@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="1800" width="200" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+<img align="right" alt="coding" width="1800" width="200" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif">
 <h1 align="center">Hi 👋, I'm Yibeltal gashaw</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
