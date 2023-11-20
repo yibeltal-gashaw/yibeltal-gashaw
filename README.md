@@ -10,6 +10,7 @@
 - 💬 Ask me about **android,java**
 
 - 📫 How to reach me **yibeltalgashaw320@gmail.com**
+- <img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/ciudad-futurista--601160250270667206/">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
