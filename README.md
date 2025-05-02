@@ -1,57 +1,88 @@
-<h1 align="center">Hi 👋, I'm Yibeltal gashaw</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Yibeltal Gashaw</h1>
+<h3 align="center">Passionate Frontend Developer | Mobile App Developer | Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yibeltal-gashaw&label=Profile%20views&color=0e75b6&style=flat" alt="yibeltal-gashaw" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yibeltal-gashaw&label=Profile%20views&color=0e75b6&style=flat" alt="yibeltal-gashaw" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yibeltal-gashaw" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/yibeltal-gashaw" target="blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" alt="GitHub" /></a>
+</p>
 
-- 🌱 I’m currently working projects with **Flutter**
+---
 
-- 💬 Ask me about **flutter, android,java**
+### About Me
 
-- 📫 How to reach me **yibeltalgashaw320@gmail.com**
+- 🌱 Currently focusing on **Flutter** and **Android development** to build scalable and efficient mobile applications.
+- 💬 I'm passionate about **mobile development**, **cross-platform solutions**, **backend integration**, and creating seamless user experiences.
+- 📫 You can reach me at: **yibeltalgashaw320@gmail.com**
+
 <img align="right" alt="coding" width="600" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠️ Skills & Technologies
+
+#### **Languages:**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" /> Java
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30" /> Kotlin
+- <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="30" height="30" /> Dart
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" /> JavaScript
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" /> C++
+
+#### **Frameworks & Libraries:**
+- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="30" height="30" /> Flutter
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30" /> Android SDK
+- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30" /> Firebase
+
+#### **Tools & Platforms:**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30" /> Git & GitHub
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" /> MySQL
+- <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="30" height="30" /> Firebase (Authentication, Firestore, Realtime Database)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="30" height="30" /> SQLite
+
+#### **Development Practices:**
+- 🛠️ MVVM Architecture
+- 🚀 CI/CD Pipelines
+- 🔌 Dependency Injection
+- 🧪 Unit Testing
+
+---
+
+### 📊 GitHub Stats
+
 <p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yibeltal-gashaw&show_icons=true&locale=en" alt="Yibeltal Gashaw GitHub Stats" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yibeltal-gashaw&" alt="Yibeltal Gashaw Streak Stats" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yibeltal-gashaw&show_icons=true&locale=en&layout=compact" alt="yibeltal-gashaw" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yibeltal-gashaw&show_icons=true&locale=en&layout=compact" alt="Yibeltal Gashaw Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yibeltal-gashaw&show_icons=true&locale=en" alt="yibeltal-gashaw" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yibeltal-gashaw&" alt="yibeltal-gashaw" /></p>
+### 🤝 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/yibeltal-gashaw)  
+- [GitHub](https://github.com/yibeltal-gashaw)  
+
+Feel free to reach out for collaborations, questions, or discussions on tech and development!
+
+---
+
+### 🌱 Learning Path
+
+- Currently diving deeper into **Flutter** state management with **Riverpod** and **BLoC**.
+- Exploring **Cloud Functions** with Firebase and integrating them into Flutter apps.
+- Working on improving knowledge of **backend technologies** with **Node.js** and **MongoDB**.
+
+---
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/91/8c/3a/918c3aa6f60748fe625c88ff439dbec7.gif" alt="technology animations" width="400"/>
+</p>
